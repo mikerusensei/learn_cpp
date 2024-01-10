@@ -1,5 +1,4 @@
-# Task Manager
-## Console Application
+# Task Manager Console Application
 
 This folder contains task manager application using C++ programming language. 
 
